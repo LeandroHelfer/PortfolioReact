@@ -2,7 +2,7 @@ import './Navbar.css'
 
 const Navbar = () => {
     return (
-        <nav class="navbar navbar-expand-lg bg-white shadow p-0">
+        <nav class="navbar navbar-expand-sm bg-white shadow p-0">
             <div class="container-fluid">
                 <div class="collapse navbar-collapse" id="navbarText">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0 px-5">

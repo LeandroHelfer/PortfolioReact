@@ -7,11 +7,11 @@ import card4 from '../Assets/card4.svg'
 
 const Central = () => {
     return (
-        <div class="container-fluid text-center bg-primary">
+        <div class="container-fluid text-center bg-primary1">
             <div class="row">
                 <div class="col-sm-8 mt-5 pt-4">
                     <h1 class="text-white text-end font-family-poppins fw-bold pe-5 me-5 font-sizeh1">Olá, sou o Leandro</h1>
-                    <h3 class="text-white text-end font-family-poppins fs-4 fw-light text-justify">Sou desenvolvedor, e gostaria de apresentar meu <br></br>
+                    <h3 class="text-white text-end font-family-poppins fs-5 fw-light text-justify">Sou desenvolvedor, e gostaria de apresentar meu <br></br>
                         trabalho para você através deste portfólio.</h3>
                 </div>
                 <div class="col-sm-4">
